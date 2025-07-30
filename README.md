@@ -26,7 +26,7 @@ Each layer has its own responsibility and communicates via interfaces, which mak
 
 ---
 
-## Screenshoot
+## Screenshot
 
 <img width="414" height="685" alt="Screenshot 2025-07-30 at 9 37 38 AM" src="https://github.com/user-attachments/assets/ed919749-9fc8-41c7-a30b-ffd7b5341da4" />
 <img width="411" height="690" alt="Screenshot 2025-07-30 at 9 38 53 AM" src="https://github.com/user-attachments/assets/51b7d0fe-346d-4f6b-93ab-8a727a0f99a0" />
